@@ -1,14 +1,14 @@
-<!-- yoannyviquel/yoannyviquel — GitHub profile README -->
+<!-- pendrayg/pendrayg — GitHub profile README -->
 
 <div align="center">
 
-<a href="https://github.com/yoannyviquel">
+<a href="https://github.com/pendrayg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=6E5494&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B+I'm+Yoann+Yviquel;Software+design+engineer;Building+Claude+Code+plugins;Marketplace+%26+e-commerce+at+scale" alt="Typing SVG" />
 </a>
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=yoannyviquel&label=Profile%20views&color=6E5494&style=flat" alt="profile views" />
+<img src="https://komarev.com/ghpvc/?username=pendrayg&label=Profile%20views&color=6E5494&style=flat" alt="profile views" />
 <img src="https://img.shields.io/badge/Focus-Marketplace%20%C2%B7%20Tooling%20%C2%B7%20Clean%20Code-6E5494?style=flat" alt="focus" />
 
 </div>
@@ -36,10 +36,10 @@ const yoann = {
 
 ### 🧩 Claude Code plugins
 
-My own [marketplace](https://github.com/yoannyviquel/marketplace) — install with:
+My own [marketplace](https://github.com/pendrayg/marketplace) — install with:
 
 ```bash
-/plugin marketplace add yoannyviquel/marketplace
+/plugin marketplace add pendrayg/marketplace
 ```
 
 | Plugin | What it does |
@@ -73,12 +73,12 @@ My own [marketplace](https://github.com/yoannyviquel/marketplace) — install wi
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=yoannyviquel&show_icons=true&hide_border=true&title_color=6E5494&icon_color=6E5494&count_private=true" alt="stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yoannyviquel&layout=compact&hide_border=true&title_color=6E5494&langs_count=8" alt="top langs" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=pendrayg&show_icons=true&hide_border=true&title_color=6E5494&icon_color=6E5494&count_private=true" alt="stats" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pendrayg&layout=compact&hide_border=true&title_color=6E5494&langs_count=8" alt="top langs" />
 
 <br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=yoannyviquel&bg_color=00000000&color=6E5494&line=6E5494&point=6E5494&area=true&area_color=6E5494&hide_border=true" alt="activity graph" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=pendrayg&bg_color=00000000&color=6E5494&line=6E5494&point=6E5494&area=true&area_color=6E5494&hide_border=true" alt="activity graph" />
 
 </div>
 
@@ -88,12 +88,12 @@ My own [marketplace](https://github.com/yoannyviquel/marketplace) — install wi
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yoannyviquel/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pendrayg/)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yoann@yviquel-rey.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yoannyviquel)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/pendrayg)
 
 </div>
 
 <div align="center">
-  <sub>⭐ From <a href="https://github.com/yoannyviquel">yoannyviquel</a> — built with too much coffee and not enough tokens.</sub>
+  <sub>⭐ From <a href="https://github.com/pendrayg">pendrayg</a> — built with too much coffee and not enough tokens.</sub>
 </div>
